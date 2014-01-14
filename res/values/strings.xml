@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assigntment_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ada_lovelace">Ada Lovelace</string>
+    <string name="ada_lovelace_info">Ada Lovelace (tên đầy đủ: Augusta Ada King, nữ Bá tước Lovelace; tên trước khi kết hôn : Augusta Ada Byron; 10 tháng 12, 1815 – 27 tháng 11, 1852).Bà trở nên nổi tiếng vì đã viết bản mô tả chiếc máy tính của Charles Babbage, nhan đề có tên The Analytical Engine. Bà cũng được xem như là lập trình viên đầu tiên trong lịch sử, tuy đây còn là một vấn đề gây tranh cãi. Ada là con gái độc nhất (chính thức) của nhà thơ Lord Byron và bà Annabella Milbanke. Ada được đặt tên Augusta vì Byron đã có quan hệ với người em cùng cha khác mẹ, Augusta Leigh, mà người ta đồn rằng họ đã có một con với nhau. Để tránh rắc rối, bà Augusta Leigh khuyên Byron cưới vợ nên Byron đã miễn cưỡng chọn Annabella. Vào ngày 16 tháng 1 năm 1816, khi Ada chỉ độ 1 tháng, Annabella bỏ Byron. Vào ngày 21 tháng 4 cùng năm Byron ký giấy ly dị vợ và rời khỏi Anh một vài ngày sau đó. Ông sẽ không bao giờ nhìn thấy mặt vợ con và nước Anh nữa</string>
+    <string name="neumann">John von Neumann</string>
+    <string name="neumann_info">John von Neumann (Neumann János; 28 tháng 12, 1903 – 8 tháng 2, 1957) là một nhà toán học người Mỹ gốc Hungary và là một nhà bác học thông thạo nhiều lĩnh vực đã đóng góp vào vật lý lượng tử, giải tích hàm, lý thuyết tập hợp, kinh tế, khoa học máy tính, giải tích số, động lực học chất lưu, thống kê và nhiều lĩnh vực toán học khác.
+Đáng chú ý nhất, von Neumann là nhà tiên phong của máy tính kỹ thuật số hiện đại và áp dụng của lý thuyết toán tử (operator theory) vào cơ học lượng tử (xem đại số Von Neumann), một thành viên của Dự án Manhattan, người sáng lập ra lý thuyết trò chơi và khái niệm cellular automata. Cùng với Edward Teller và Stanislaw Ulam, von Neumann khám phá ra những bước quan trọng trong vật lý hạt nhân liên quan đến phản ứng nhiệt hạch (thermonuclear) và bom hydrogen.</string>
+
+</resources>
